@@ -5,7 +5,7 @@
 #### I'm 18 years old, currently finishing my 12 school year.
 #### 📧 goncalo6silvaa@gmail.com
 
-![Goncalo MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa6&hide_progress=true)
+![Goncalo MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa6&hide_progress=false)
 
 ## Skills
 <div style="display: inline_block">
