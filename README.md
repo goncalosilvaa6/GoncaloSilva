@@ -1,11 +1,15 @@
-## Hi! I am Gonçalo Silva ✌️
+## ✌️Hi there! I am Gonçalo Silva!
 
-## I'm studying to graduate in Software Engineering.
+### 🎓 About me:
 
-#### I'm 18 years old, currently finishing my 12 school year.
-#### 📧 goncalo6silvaa@gmail.com
+🌍 Based in Portugal.<br/>
+📚 I'm studying to graduate in Software Engineering.<br/>
+🎓 Computer technician.<br/>
 
-![Goncalo MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalosilvaa6&hide_progress=true)
+### 📫 Get in touch:
+
+📧 Email me at goncalo6silvaa@gmail.com.<br/>
+🔗 [Linkedin profile](https://www.linkedin.com/in/goncalosilvaa6).<br/>
 
 ## Skills
 <div style="display: inline_block">
@@ -22,7 +26,3 @@
     <img align="center" alt="canva" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
     <img align="center" alt="figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-
-## Social
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goncalosilvaa6/)
-[![Instagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goncalosilvaa6)
